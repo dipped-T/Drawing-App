@@ -1,0 +1,21 @@
+#DRAWING - APP
+As a pair we decided to develop the drawing app as there seemed to be many different variations we could add. I was more comfortablw with this software as out of all 3 i was a blw to deal with this easier. 
+
+What we have accomplished so far:
+- so the first task was to implement the code from the video into our own code. We started this out by copying the whole code into a seperate file attatched to our drawing app code so we could add and move stuff simply. Then by assessing how the other tool were layed out we were able to begin structuring our own code.
+
+- We stuggled to properly implement this code so seeked help from online resources. We managed to get the symbol to show on the site and make it clickable, however the code still doesnt appropriately function. The no shapes are drawn to the screen, the buttons do not appear and anything drawn to the screen dissapears. As we struggled to fix this we decided to move to another tool.
+
+- For our second tool we went with the eraser tool. We decided that this would be a suitable tool as it was simple to add, but was also an important tool to have in a drawing app. To add the eraser we looked at the other codes and saw that the free drawing tool added colour to the canvas and so in the same way by reversing that we could create an eraser that out put white, which is the default canvas colour. 
+
+- One issue we faced with the initial code for the eraser is that after using it the program would stop working. This was a simple fix as we just looked at the consle and fixed the minor errors. 
+
+-After the eraser we went with the rectangle tool. This is because this tool was very easy to add to our app. To complete it we took the code from the line draw tool and changed it from outputtin a line to creating a rect. The rectangles are able to change shape and colour when they are being put on the canvas. 
+
+
+Future plans:
+We plan to find and develop a fix for our vertex code. This is going to require lots of reseach and time. Currently we have no clear direction on how we are going to implement the fix.
+
+We are now looking to implement a fill tool into our code as well as make the UI more user friendly. 
+
+We already have an idea planned out for how we weill go about completing the fill tool. We plan tthat it will take 1 hour to complete, at which point we will begin to create a better user interface. One idea we have to improve the UI is by addind a drop dow section for the colours. This will neated the page and add more space. We also aim to add a colour gradient bar so the user can choose the transparency of the colour. 
